@@ -8,7 +8,7 @@ A Google Apps Script that searches Gmail's Inbox for emails sent by Schedule Poi
   * Adding this script to your Google Drive:
     * Open Google Apps Script editor (http://script.google.com)
     * Close the dialogue
-    * Copy contents of [Code.gs]() and overwrite all contents in code editor
+    * Copy contents of [Code.gs](https://raw.githubusercontent.com/haoyuc1/Schedule-Pointe-to-Google-Calendar/master/Code.gs) and overwrite all contents in code editor
     * IMPORTANT!!!  Change the timezone to your own (it's on line 2 - var TimeZone='PST';)  IMPORTANT !!!
     * (Optional) Enter an address for the events created (it's on line 3 - var Location = 'Your location';)
     * File -> Save
@@ -30,10 +30,8 @@ A Google Apps Script that searches Gmail's Inbox for emails sent by Schedule Poi
 
 ## REFERENCE
 
-[Schedule-Pointe-to-Google-Calendar](https://github.com/igorpeixoto/Schedule-Pointe-to-Google-Calendar/)
+[igorpeixoto/Schedule-Pointe-to-Google-Calendar](https://github.com/igorpeixoto/Schedule-Pointe-to-Google-Calendar/)
 
 ## LICENSE
 
-Use this script at your will, for any purpose, commercial or not. 
-
-If you want to modify and redistribute the script, just keep a reference to this repo.
+[MIT]()
