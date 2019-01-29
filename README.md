@@ -34,4 +34,4 @@ A Google Apps Script that searches Gmail's Inbox for emails sent by Schedule Poi
 
 ## LICENSE
 
-[MIT]()
+[MIT](https://raw.githubusercontent.com/haoyuc1/Schedule-Pointe-to-Google-Calendar/master/LICENSE)
