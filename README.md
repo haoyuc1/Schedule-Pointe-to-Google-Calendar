@@ -23,6 +23,10 @@ A Google Apps Script that searches Gmail's Inbox for emails sent by Schedule Poi
     - Select Run -> SchedulePointe2GCalender
     - Authorize it, and run it again just to make sure.
 
+## Additional Information
+
+* This Script only search unread email to creates events, and then mark those email as read to avoid process them again. So, please keep schedule email unread, otherwise, you will need to create them on Calendar manually. However, you can still use filter to move these email to any other folders. Just leave schedule emails there, script will do everything for you like a secretary
+
 
 ## CONTRIBUTORS
 
