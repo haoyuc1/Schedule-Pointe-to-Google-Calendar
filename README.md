@@ -27,12 +27,23 @@ A Google Apps Script that searches Gmail's Inbox for emails sent by Schedule Poi
 
 * This Script only search unread email to creates events, and then mark those email as read to avoid process them again. So, please keep schedule email unread, otherwise, you will need to create them on Calendar manually. However, you can still use filter to move these email to any other folders. Just leave schedule emails there, script will do everything for you like a secretary
 
+## Next steps
+
+* Use Gmail API feature to create webhook which can notify app when mailbox have new change to avoid polling every 5 mins.
+
+* App can directly schedule new event for schedule pointe on Calendar.
+
+* App can show whole time slot of schedule pointe to help pick a available time.
+
+
 
 ## CONTRIBUTORS
 
 * Haoyu Chen - [Github](//github.com/haoyuc1)
 
 ## REFERENCE
+
+* Following project give me ideas about how to build this program. However, all of code is done by myself.
 
 [igorpeixoto/Schedule-Pointe-to-Google-Calendar](https://github.com/igorpeixoto/Schedule-Pointe-to-Google-Calendar/)
 
