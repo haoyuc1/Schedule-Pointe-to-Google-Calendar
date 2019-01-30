@@ -14,7 +14,7 @@ A Google Apps Script that searches Gmail's Inbox for emails sent by Schedule Poi
     * File -> Save
     
   * Running the script:
-    - Resources -> Current project's triggers
+    - Edit(Second tab at upper left) -> Current project's triggers
     - Select the following options: SchedulePointe2GCalender, Time-driven, Minutes Timer, 5 minutes
     - Click on the link "notifications" (it's under the trigger otpions)
     - Select a notification to be delivered to your email in case something goes wrong with the script,
